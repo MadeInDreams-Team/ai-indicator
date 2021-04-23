@@ -2,7 +2,7 @@
   "name": "crypto-brain",
   "version": "1.0.0",
   "description": "Solutions to turn market indicators into smart indicators, end result: creating Super Risk Management A.I.",
-  "main": "ml.js",
+  "main": "myParced-file.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
