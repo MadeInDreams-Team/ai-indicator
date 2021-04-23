@@ -1,0 +1,20 @@
+{
+  "name": "crypto-brain",
+  "version": "1.0.0",
+  "description": "Solutions to turn market indicators into smart indicators, end result: creating Super Risk Management A.I.",
+  "main": "ml.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aimcomlt/Universal-Market-Indicators.git"
+  },
+  "keywords": [],
+  "author": "https://github.com/Aimcomlt",
+  "license": "MIT",
+  "homepage": ".",
+  "dependencies": {
+    "brain.js": "2.0.0-beta.2"
+  }
+}
