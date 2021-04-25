@@ -7,11 +7,20 @@ https://poloniex.com/public?command=returnChartData&currencyPair=BTC_ETH&start=1
 
     -Chapter One 
              The A.I. Analytic solution in javascript. 
+                               WeightAverage Indicator
                     4 part videos: 
-                                  -Part 1 --> https://youtu.be/pK2yPJMcWwA
-                                  -Part 2 --> https://youtu.be/Ecn3QPf5oLQ 
-                                  -Part 3 --> https://youtu.be/1Rr8J3wCn3g 
-                                  -Part 4 --> https://youtu.be/T5ZbhnLTCuY
+                    
+  -Part 1 
+   https://youtu.be/pK2yPJMcWwA
+   
+  -Part 2  
+   https://youtu.be/Ecn3QPf5oLQ 
+   
+  -Part 3  
+   https://youtu.be/1Rr8J3wCn3g
+   
+  -Part 4 
+   https://youtu.be/T5ZbhnLTCuY
 
 Poloniex Docs support:
               -https://poloniex.com/support/api/
