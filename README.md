@@ -1,5 +1,6 @@
 ﻿# Universal-Market-Indicators
 I might up date eth_History.json but just to make sure get the current market data with the link below.. You can get all the data from poloniex: on how to implement your https call. For example change the period with one of these epoch seconds.  
+Epoch link HERE!https://www.epochconverter.com/
 --------Candlestick period in seconds. Valid values are 300, 900, 1800, 7200, 14400, and 86400--------
 
                                                     EXAMPLE:
